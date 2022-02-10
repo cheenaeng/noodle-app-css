@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@400;500&display=swap");
+
+.container {
+  gap: 1vh;
+  margin: auto;
+  min-width: 400px;
+}
+
+.navbar {
+  background-color: #f5f7fc !important;
+}
+
+.navbar-brand,
+.nav-link {
+  font-family: Lobster;
+  font-size: 3vh;
+}
+
+.carousel-item img {
+  max-width: 50vh;
+  height: auto;
+  margin: auto;
+  border-radius: 2vh;
+}
+
+.card img {
+  max-width: 60vh;
+  margin: auto;
+}
+
+.recipe-category {
+  background-color: #ddc0dd;
+  font-family: lobster;
+  font-size: 3vh;
+  width: 25vh;
+  border-radius: 2vh;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.recipe-category img {
+  width: 12vh;
+  height: 12vh;
+}
+
+.recipe-category a {
+  text-decoration: none;
+  color: black;
+}
+.cards {
+  gap: 2vh;
+}
+
+.fa {
+  font-size: 3vh;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.text {
+  font-family: Lobster;
+  font-size: 4vh;
+  background-color: #f4ed7a;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.6);
+  box-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
+    0px -5px 35px rgba(255, 255, 255, 0.3);
+}
+
+.sub-header {
+  font-size: 4vh;
+  font-family: lobster;
+  text-align: center;
+}
+
+.description {
+  font-family: lobster;
+  font-size: 4vh;
+  text-align: center;
+}
+
+.description img {
+  width: 15vh;
+  margin: auto;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.title {
+  font-family: "Open sans";
+  font-size: 3vh;
+  font-weight: 800;
+  text-align: center;
+  color: white;
+  background-color: black;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.text-heading {
+  font-size: 2.5vh;
+  font-family: lobster;
+  color: #f3a2a7;
+}
+
+.text-heading + ul,
+ol {
+  font-family: "Open Sans";
+}

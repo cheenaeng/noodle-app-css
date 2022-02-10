@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../../week1/day2/post-class/html-noodles-bootcamp"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "POCE.5"
+  }
+}

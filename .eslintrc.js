@@ -15,7 +15,7 @@ module.exports = {
     'brace-style': 'off',
     // Disable linebreak style to prevent ESLint errors on Windows line endings
     // https://eslint.org/docs/rules/linebreak-style
-    'linebreak-style': 'off',
+    'linebreak-style': 'on',
     // Allow console for students to debug
     'no-console': 'off',
     // Allow function param reassign for array or object elements or properties
